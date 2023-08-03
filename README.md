@@ -1,6 +1,6 @@
 # To-Do List App
 
-([Deployed Link](todo-list-react-jm.netlify.app))
+([Deployed Link](https://todo-list-react-jm.netlify.app))
 
 This project allows the user to create a list of tasks to be done.
 The features of this app include:
